@@ -8,12 +8,12 @@ import random
 HUMAN_SHAPE = "x"                # "x", "o", "square", "triangle"
 HUMAN_COLOR = (232, 90, 79)      # Red/coral
 
-AI_SHAPE = "o"
+AI_SHAPE = "triangle"
 AI_COLOR = (79, 168, 232)        # Blue
 
 AI_GOES_FIRST = False
 
-GRID_SIZE = 3                    # 3, 4, 5... just works
+GRID_SIZE = 5                    # 3, 4, 5... just works
 
 COLOR_BACKGROUND = (30, 30, 30)
 COLOR_GRID = (80, 80, 80)
